@@ -1,0 +1,12 @@
+name: ebola
+
+channels:
+ - conda-forge
+
+ dependencies:
+- python=3.6
+- ipython
+- jupyter
+- notebook
+- seaborn 
+- pandas
