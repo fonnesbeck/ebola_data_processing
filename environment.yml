@@ -1,9 +1,9 @@
 name: ebola
 
 channels:
- - conda-forge
+- conda-forge
 
- dependencies:
+dependencies:
 - python=3.6
 - ipython
 - jupyter
